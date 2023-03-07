@@ -1,0 +1,4 @@
+aiogram
+matplotlib
+pandas
+python-binance
