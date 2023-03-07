@@ -22,7 +22,7 @@ Written in Python using Aiogram, a tool that provides a user with updated crypto
 
 - Clone to the local machine 
 
-        $ git clone https://github.com/
+        $ git clone https://github.com/nllllibeth/currency_bot.git
         $ cd currency_bot
 
 - Create and activate virtual environment 
