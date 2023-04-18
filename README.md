@@ -9,9 +9,7 @@ Written in Python using Aiogram, a tool that provides a user with updated crypto
 
 ## GIF demo
 
-
-![IMG_0237-1](https://user-images.githubusercontent.com/73400470/223402835-4acf643d-d3a1-4a99-b233-e69636d41e05.gif)
-
+<img src="https://user-images.githubusercontent.com/73400470/223402835-4acf643d-d3a1-4a99-b233-e69636d41e05.gif" width="300">
 
 ***
 
