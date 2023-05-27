@@ -1,4 +1,5 @@
-#Currency_bot
+# Currency_bot
+
 ***
 ## Description
 
@@ -8,8 +9,9 @@ Written in Python using Aiogram, a tool that provides a user with updated crypto
 
 ## GIF demo
 
-<img src="https://s2.gifyu.com/images/IMG_0237-1.gif/>
 
+<img src="https://user-images.githubusercontent.com/73400470/223402835-4acf643d-d3a1-4a99-b233-e69636d41e05.gif" width="300">
+>>>>>>> 8cf368eca81276e4c278015f0b683e5a2e46d1db
 
 ***
 
@@ -20,7 +22,7 @@ Written in Python using Aiogram, a tool that provides a user with updated crypto
 
 - Clone to the local machine 
 
-        $ git clone https://github.com/
+        $ git clone https://github.com/nllllibeth/currency_bot.git
         $ cd currency_bot
 
 - Create and activate virtual environment 
