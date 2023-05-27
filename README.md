@@ -8,7 +8,7 @@ Written in Python using Aiogram, a tool that provides a user with updated crypto
 
 ## GIF demo
 
-<img src="https://s2.gifyu.com/images/IMG_0237-1.gif"/>
+<img src="https://s2.gifyu.com/images/IMG_0237-1.gif/>
 
 
 ***

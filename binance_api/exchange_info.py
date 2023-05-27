@@ -11,6 +11,7 @@ plt.style.use('ggplot')
 apikey = Config.API_KEY
 secret = Config.SECRET_KEY
 
+
 client = Client(apikey, secret)
 
 def get_price(symbol : str):
@@ -35,6 +36,7 @@ def get_historical_data(symbol, interval, lookback):
     df.index = pd.to_datetime(df.index, unit='ms')
     df = df.astype(float)
     return df
+
 
 cnt = 0
 
@@ -61,4 +63,5 @@ def price_change_percent(symbol):
     price_change_percent = float(ticker['priceChangePercent'])
     price_change_percent = round(price_change_percent, 2)
     return price_change_percent
+
 
