@@ -11,7 +11,6 @@ Written in Python using Aiogram, a tool that provides a user with updated crypto
 
 
 <img src="https://user-images.githubusercontent.com/73400470/223402835-4acf643d-d3a1-4a99-b233-e69636d41e05.gif" width="300">
->>>>>>> 8cf368eca81276e4c278015f0b683e5a2e46d1db
 
 ***
 
